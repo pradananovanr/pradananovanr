@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://rumahrobotforex.com">
@@ -25,7 +25,7 @@
 
 
 <div id"content" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY1ZGRiYWEzZjcwOGYxYWU4N2Q1ZjgzMjc1ZmNkZTk3N2FlYjcwMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"/>
 </div>
 
 
